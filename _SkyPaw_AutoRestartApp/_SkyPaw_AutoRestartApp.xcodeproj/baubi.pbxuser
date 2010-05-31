@@ -2,16 +2,16 @@
 {
 	1D3623240D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {857, 401}}";
-			sepNavSelRange = "{108, 76}";
+			sepNavIntBoundsRect = "{{0, 0}, {857, 395}}";
+			sepNavSelRange = "{212, 0}";
 			sepNavVisRange = "{0, 581}";
 		};
 	};
 	1D3623250D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {857, 720}}";
-			sepNavSelRange = "{184, 0}";
-			sepNavVisRange = "{0, 660}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{283, 699}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* _SkyPaw_AutoRestartApp */ = {
@@ -29,9 +29,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* _SkyPaw_AutoRestartAppViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {857, 1040}}";
+			sepNavIntBoundsRect = "{{0, 0}, {857, 1056}}";
 			sepNavSelRange = "{187, 0}";
-			sepNavVisRange = "{0, 628}";
+			sepNavVisRange = "{716, 598}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -67,17 +67,17 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 296902383;
-			PBXWorkspaceStateSaveDate = 296902383;
+			PBXPerProjectTemplateStateSaveDate = 296967550;
+			PBXWorkspaceStateSaveDate = 296967550;
 		};
 		perUserProjectItems = {
-			510EDFD211B25F0F009536A8 /* PlistBookmark */ = 510EDFD211B25F0F009536A8 /* PlistBookmark */;
-			51F892B311B25E85008DFC22 /* PBXTextBookmark */ = 51F892B311B25E85008DFC22 /* PBXTextBookmark */;
-			51F892B411B25E85008DFC22 /* PBXTextBookmark */ = 51F892B411B25E85008DFC22 /* PBXTextBookmark */;
+			510B8F8B11B35E6400B88354 /* PBXTextBookmark */ = 510B8F8B11B35E6400B88354 /* PBXTextBookmark */;
+			510B8F8C11B35E6400B88354 /* PBXTextBookmark */ = 510B8F8C11B35E6400B88354 /* PBXTextBookmark */;
+			510B8F8D11B35E6400B88354 /* PBXTextBookmark */ = 510B8F8D11B35E6400B88354 /* PBXTextBookmark */;
+			51784C9511B35B8A0018AE69 /* PlistBookmark */ = 51784C9511B35B8A0018AE69 /* PlistBookmark */;
+			51784DD511B35CEE0018AE69 /* PBXTextBookmark */ = 51784DD511B35CEE0018AE69 /* PBXTextBookmark */;
 			51F892B511B25E85008DFC22 /* PBXTextBookmark */ = 51F892B511B25E85008DFC22 /* PBXTextBookmark */;
-			51F892B611B25E85008DFC22 /* PBXTextBookmark */ = 51F892B611B25E85008DFC22 /* PBXTextBookmark */;
 			51F892C211B25EAB008DFC22 /* PBXTextBookmark */ = 51F892C211B25EAB008DFC22 /* PBXTextBookmark */;
-			51F892D111B25EDB008DFC22 /* PlistBookmark */ = 51F892D111B25EDB008DFC22 /* PlistBookmark */;
 		};
 		sourceControlManager = 5177089611B25AFD00577C7F /* Source Control */;
 		userBuildSettings = {
@@ -90,16 +90,35 @@
 			sepNavVisRange = "{0, 388}";
 		};
 	};
-	510EDFD211B25F0F009536A8 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* _SkyPaw_AutoRestartApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/baubi/Desktop/_SkyPaw_AutoRestartApp/_SkyPaw_AutoRestartApp-Info.plist";
+	510B8F8B11B35E6400B88354 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.m */;
+		name = "_SkyPaw_AutoRestartAppAppDelegate.m: 19";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 283;
+	};
+	510B8F8C11B35E6400B88354 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.h */;
+		name = "_SkyPaw_AutoRestartAppAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 792;
+		vrLoc = 0;
+	};
+	510B8F8D11B35E6400B88354 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.h */;
+		name = "_SkyPaw_AutoRestartAppAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 0;
 	};
 	5177088511B25AE700577C7F /* _SkyPaw_AutoRestartApp */ = {
 		isa = PBXExecutable;
@@ -147,25 +166,26 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	51F892B311B25E85008DFC22 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.h */;
-		name = "_SkyPaw_AutoRestartAppAppDelegate.h: 6";
-		rLen = 76;
-		rLoc = 108;
-		rType = 0;
-		vrLen = 581;
-		vrLoc = 0;
-	};
-	51F892B411B25E85008DFC22 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* _SkyPaw_AutoRestartAppAppDelegate.m */;
-		name = "_SkyPaw_AutoRestartAppAppDelegate.m: 8";
+	51784C9511B35B8A0018AE69 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* _SkyPaw_AutoRestartApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/baubi/Desktop/GitHub/_SkyPaw_AutoRestartApp/_SkyPaw_AutoRestartApp/_SkyPaw_AutoRestartApp-Info.plist";
 		rLen = 0;
-		rLoc = 184;
+		rLoc = 9223372036854775808;
+	};
+	51784DD511B35CEE0018AE69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* _SkyPaw_AutoRestartAppViewController.m */;
+		name = "_SkyPaw_AutoRestartAppViewController.m: 8";
+		rLen = 0;
+		rLoc = 187;
 		rType = 0;
-		vrLen = 660;
-		vrLoc = 0;
+		vrLen = 598;
+		vrLoc = 716;
 	};
 	51F892B511B25E85008DFC22 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -177,16 +197,6 @@
 		vrLen = 295;
 		vrLoc = 0;
 	};
-	51F892B611B25E85008DFC22 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* _SkyPaw_AutoRestartAppViewController.m */;
-		name = "_SkyPaw_AutoRestartAppViewController.m: 8";
-		rLen = 0;
-		rLoc = 187;
-		rType = 0;
-		vrLen = 628;
-		vrLoc = 0;
-	};
 	51F892C211B25EAB008DFC22 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
@@ -196,17 +206,6 @@
 		rType = 0;
 		vrLen = 388;
 		vrLoc = 0;
-	};
-	51F892D111B25EDB008DFC22 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* _SkyPaw_AutoRestartApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/baubi/Desktop/_SkyPaw_AutoRestartApp/_SkyPaw_AutoRestartApp-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
 	};
 	8D1107310486CEB800E47090 /* _SkyPaw_AutoRestartApp-Info.plist */ = {
 		uiCtxt = {
